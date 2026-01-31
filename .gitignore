@@ -1,0 +1,24 @@
+# Python stuff
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+
+# Streamlit
+.streamlit/
+
+# IDE settings
+.vscode/
+.idea/
+
+# DS specific
+.ipynb_checkpoints
+*.ipynb
+
+# System
+.DS_Store
+Thumbs.db
